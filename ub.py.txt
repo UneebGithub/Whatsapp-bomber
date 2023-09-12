@@ -1,0 +1,9 @@
+import pyautogui
+import webbrowser as wb
+import time
+wb.open("url of your whatsapp")
+time.sleep(40)
+for i in range(20):
+pyautogui.press("h")
+pyautogui.press("i")
+pyautogui.press("enter")
