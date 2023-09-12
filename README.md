@@ -1,4 +1,4 @@
 # Whatsapp-bomber
 python code
-before running install 
+#Firstly-install 
 pip install pyautogui
